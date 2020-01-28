@@ -1,0 +1,298 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="RunService" referent="RBX0">
+		<Properties>
+			<string name="Name">Run Service</string>
+		</Properties>
+	</Item>
+	<External>RBX1</External>
+	<Item class="Workspace" referent="RBX2">
+		<Properties>
+			<token name="Controller">0</token>
+			<bool name="ControllerFlagShown">true</bool>
+			<Ref name="CurrentCamera">RBX3</Ref>
+			<CoordinateFrame name="ModelInPrimary">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<string name="Name">Workspace</string>
+			<Ref name="PrimaryPart">null</Ref>
+		</Properties>
+		<Item class="Camera" referent="RBX3">
+			<Properties>
+				<Ref name="CameraSubject">null</Ref>
+				<token name="CameraType">0</token>
+				<CoordinateFrame name="CoordinateFrame">
+					<X>-0.00599347474</X>
+					<Y>-197.347427</Y>
+					<Z>19.534502</Z>
+					<R00>-0.999999583</R00>
+					<R01>0.000299674895</R01>
+					<R02>-0.000958955556</R02>
+					<R10>-2.91038305e-011</R10>
+					<R11>0.954479575</R11>
+					<R12>0.298276246</R12>
+					<R20>0.00100468937</R20>
+					<R21>0.298276067</R21>
+					<R22>-0.954479218</R22>
+				</CoordinateFrame>
+				<CoordinateFrame name="Focus">
+					<X>0</X>
+					<Y>-200.286972</Y>
+					<Z>25.5</Z>
+					<R00>-1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>-1</R22>
+				</CoordinateFrame>
+				<string name="Name">Instance</string>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+		<Item class="Model">
+			<Properties>
+				<token name="Controller">0</token>
+				<bool name="ControllerFlagShown">true</bool>
+				<CoordinateFrame name="ModelInPrimary">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<string name="Name">Model</string>
+				<Ref name="PrimaryPart">null</Ref>
+			</Properties>
+		</Item>
+	</Item>
+	<Item class="SoundService">
+		<Properties>
+			<string name="Name">SoundService</string>
+			<float name="distancefactor">10</float>
+			<float name="dopplerscale">1</float>
+			<float name="rolloffscale">1</float>
+		</Properties>
+	</Item>
+	<Item class="Hopper">
+		<Properties>
+			<string name="Name">Hopper</string>
+		</Properties>
+		<Item class="HopperBin">
+			<Properties>
+				<string name="Command">Grab</string>
+				<string name="Name">HopperBin</string>
+				<string name="TextureName">Grab</string>
+			</Properties>
+		</Item>
+		<Item class="HopperBin">
+			<Properties>
+				<string name="Command">Hammer</string>
+				<string name="Name">HopperBin</string>
+				<string name="TextureName">Hammer</string>
+			</Properties>
+		</Item>
+		<Item class="HopperBin">
+			<Properties>
+				<string name="Command">Clone</string>
+				<string name="Name">HopperBin</string>
+				<string name="TextureName">Clone</string>
+			</Properties>
+		</Item>
+	</Item>
+	<External>RBX4</External>
+	<Item class="Lighting">
+		<Properties>
+			<Color3 name="BottomAmbientV9">4286220664</Color3>
+			<Color3 name="ClearColor">4278190080</Color3>
+			<string name="Name">Lighting</string>
+			<Color3 name="SpotLightV9">4288384102</Color3>
+			<Color3 name="TopAmbientV9">4292137948</Color3>
+		</Properties>
+	</Item>
+	<Item class="ControllerService" referent="RBX5">
+		<Properties>
+			<string name="Name">Instance</string>
+		</Properties>
+	</Item>
+	<External>RBX6</External>
+	<External>RBX7</External>
+	<External>RBX8</External>
+	<External>RBX9</External>
+	<External>RBX10</External>
+</roblox>
