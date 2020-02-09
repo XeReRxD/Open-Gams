@@ -4,4 +4,4 @@ Anyone may suggest the addition of a game to this collection. This can be done o
 
 This collection includes pretty much any game, it's meant for archiving. Inappropiate games should not be submitted. One may legitimately use material (or fix it...) from any of these games in any project.
 
-A catalog of the games is available in the file named catalog.md. (Some games are undocumented so far, sorry for the inconvenience!)
+A catalog of the games is available in the file named catalog.md. (A TON of games are undocumented so far, sorry for the inconvenience!)
